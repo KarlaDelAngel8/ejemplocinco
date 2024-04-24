@@ -1,0 +1,38 @@
+html {
+    height: 50%;
+   
+}
+body{
+    background-color: rgb(6, 53, 82);
+    color: blanchedalmond;
+    height: 25%;
+    background-position: center;
+}
+img{ 
+   background-position: center;
+    background-size: cover;
+    height: 390px;
+    background-repeat: repeat;
+}
+h1{
+    text-align: center;
+    color: rgb(18, 165, 190);
+    background-color: rgb(2, 23, 63);
+    font-family: cursive;
+    padding: 10px;
+    margin: 30px;
+}
+h2{
+    margin-left: 250px 0px 0px 350 px;
+}
+h5{
+    text-align: center;
+}
+.dropdown{
+    background-color: rgba(8, 117, 201, 0.212);
+    float: right;
+    font-family:cursive;
+    font-size: 25px;
+    color: rgb(140, 138, 167);
+    page-orientation: 50px;
+}
